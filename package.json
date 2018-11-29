@@ -9,7 +9,7 @@
   },
   "author": "Chayut",
   "license": "MIT",
-  "browserslist": "> 0.25%, not dead, IE 11",
+  "browserslist": "IE 11",
   "devDependencies": {
     "@babel/cli": "^7.1.5",
     "@babel/core": "^7.1.6",
